@@ -1,0 +1,1 @@
+[Source code](http://www.ii.uib.no/~khalid/ocajp8/source.html) for all the examples in the book ["A Programmer’s Guide to Java® SE 8 Oracle Certified Associate (OCA): A Comprehensive Primer"](http://www.ii.uib.no/~khalid/ocajp8/).
