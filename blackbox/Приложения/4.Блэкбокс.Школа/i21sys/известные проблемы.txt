@@ -1,0 +1,1 @@
+non-breaking hyphen -- keyboard shortcut does not work
